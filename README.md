@@ -20,12 +20,14 @@ This first notebook contains all the steps and transformations I performed for t
 
 ## PREDICTING TRAFFIC ACCIDENT SEVERITY
 
-- Data description-
-- Data Cleaning-
-- EDA-
-- Model Deployment-
-  - Random Forest-
-  - Logistic Regression-
-  - KNN-
-  - SVM-
-- Results-
+- Data description
+- Data Cleaning
+- EDA
+- Model Deployment
+  - Random Forest
+  - Logistic Regression
+  - KNN
+  - SVM
+- Results
+| Algorithm | Jaccard | f1-Score | Precision | Recall | Time(s) |
+|---|---|---|---|---|
