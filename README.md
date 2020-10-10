@@ -29,5 +29,6 @@ This first notebook contains all the steps and transformations I performed for t
   - KNN
   - SVM
 - Results
+
 | Algorithm | Jaccard | f1-Score | Precision | Recall | Time(s) |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
