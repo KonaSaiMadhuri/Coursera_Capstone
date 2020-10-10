@@ -30,5 +30,9 @@ This first notebook contains all the steps and transformations I performed for t
   - SVM
 - Results
 
-| Algorithm | Jaccard | f1-Score | Precision | Recall | Time(s) |
-| --- | --- | --- | --- | --- |
+| Algorithm	| Jaccard	| f1-score | Precision | Recall	| Time(s) |
+| --------- | ------- | -------- | --------- | ------ | ------- |
+| Random Forest	| 0.722	|0.72|	0.724|	0.591|	6.588|
+|Logistic Regression	|0.661|	0.65|	0.667|	0.456|	6.530|
+|KNN	|0.664	|0.66|	0.652|	0.506|	200.58|
+|SVM	|0.659|	0.65|	0.630|	0.528	|403.92|
